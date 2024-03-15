@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/lidermanpractice" mode="merge"/>
+    <filter root="/content/lidermanpractice" mode="merge"/>
+    <filter root="/content/dam/lidermanpractice" mode="merge">
+        <exclude pattern="/content/dam/lidermanpractice(/.*)?"/>
+        <include pattern="/content/dam/lidermanpractice/jcr:content(/.*)?"/>
+    </filter>
+    <filter root="/content/dam/lidermanpractice/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/lidermanpractice" mode="merge"/>
+</workspaceFilter>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/lidermanpractice/clientlibs"/>
+    <filter root="/apps/lidermanpractice/components"/>
+    <filter root="/apps/lidermanpractice/i18n"/>
+</workspaceFilter>
